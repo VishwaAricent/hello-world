@@ -14,6 +14,6 @@ Star Trek Logs
 
 Star Date 2350455.6
 Captain's Log, Scientific
-We have encountered a mysterious phenomena that seems to be dark energy. I have asked my Science Team to continously monitor the phenomena. In the mean while, our Engineering team has launched a probe to study the effect of unknowinu particles on dark energy. 
+We have encountered a mysterious phenomena that seems to be dark energy. I have asked my Science Team to continously monitor the phenomena. In the mean while, our Engineering team has launched a probe to study the effect of unknowino particles on dark energy. 
 
 Vishy Out
